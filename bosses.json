@@ -1,0 +1,2610 @@
+{
+"leader1": {
+    "rom_id": 246,
+    "double_battle": false,
+    "trainer_class": "Leader Roark",
+    "trainer_name": "Leader Roark",
+    "trainer_gender": "male",
+    "battle_type": "Singles",
+    "items": [
+        "Potion",
+        "Potion"
+    ],
+    "pokemon": [
+        {
+            "species": "Geodude",
+            "species_id": 74,
+            "level": 12,
+            "hp": 32,
+            "atk": 24,
+            "def": 31,
+            "spe": 10,
+            "spa": 12,
+            "spd": 10,
+            "held_item": null,
+            "moves": [
+                "Stealth Rock",
+                "Rock Throw"
+            ],
+            "ability": "Rock Head",
+            "xp": 187,
+            "nature_id": 9,
+            "nature": "Lax",
+            "personality": 7112584,
+            "forme": null
+        },
+        {
+            "species": "Onix",
+            "species_id": 95,
+            "level": 12,
+            "hp": 31,
+            "atk": 14,
+            "def": 48,
+            "spe": 22,
+            "spa": 12,
+            "spd": 16,
+            "held_item": null,
+            "moves": [
+                "Stealth Rock",
+                "Rock Throw",
+                "Screech"
+            ],
+            "ability": "Rock Head",
+            "xp": 277,
+            "nature_id": 5,
+            "nature": "Bold",
+            "personality": 4595080,
+            "forme": null
+        },
+        {
+            "species": "Cranidos",
+            "species_id": 408,
+            "level": 14,
+            "hp": 43,
+            "atk": 40,
+            "def": 17,
+            "spe": 24,
+            "spa": 12,
+            "spd": 14,
+            "held_item": null,
+            "moves": [
+                "Headbutt",
+                "Pursuit",
+                "Leer"
+            ],
+            "ability": "Mold Breaker",
+            "xp": 297,
+            "nature_id": 13,
+            "nature": "Jolly",
+            "personality": 388488,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Oreburgh City",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert"
+    ],
+    "money": -1
+},
+"leader6":{
+    "rom_id": 250,
+    "double_battle": false,
+    "trainer_class": "Leader Byron",
+    "trainer_name": "Leader Byron",
+    "trainer_gender": "male",
+    "battle_type": "Singles",
+    "items": [
+        "Hyper Potion",
+        "Full Restore"
+    ],
+    "pokemon": [
+        {
+            "species": "Magneton",
+            "species_id": 82,
+            "level": 37,
+            "hp": 92,
+            "atk": 58,
+            "def": 92,
+            "spe": 58,
+            "spa": 102,
+            "spd": 65,
+            "held_item": null,
+            "moves": [
+                "Flash Cannon",
+                "Thunderbolt",
+                "Tri Attack",
+                "Metal Sound"
+            ],
+            "ability": "Magnet Pull",
+            "xp": 1276,
+            "nature_id": 7,
+            "nature": "Relaxed",
+            "personality": 93832,
+            "forme": null
+        },
+        {
+            "species": "Steelix",
+            "species_id": 208,
+            "level": 38,
+            "hp": 114,
+            "atk": 78,
+            "def": 166,
+            "spe": 36,
+            "spa": 55,
+            "spd": 63,
+            "held_item": null,
+            "moves": [
+                "Flash Cannon",
+                "Ice Fang",
+                "Earthquake",
+                "Sandstorm"
+            ],
+            "ability": "Rock Head",
+            "xp": 1596,
+            "nature_id": 12,
+            "nature": "Serious",
+            "personality": 9151112,
+            "forme": null
+        },
+        {
+            "species": "Bastiodon",
+            "species_id": 411,
+            "level": 41,
+            "hp": 110,
+            "atk": 57,
+            "def": 167,
+            "spe": 39,
+            "spa": 53,
+            "spd": 115,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "Metal Burst",
+                "Stone Edge",
+                "Iron Defense",
+                "Taunt"
+            ],
+            "ability": "Sturdy",
+            "xp": 1747,
+            "nature_id": 9,
+            "nature": "Lax",
+            "personality": 8386184,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Canalave City",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert"
+    ],
+    "money": -1
+}, 
+"elite1":{
+    "rom_id": 261,
+    "double_battle": false,
+    "trainer_class": "Elite Four Aaron",
+    "trainer_name": "Elite Four Aaron",
+    "trainer_gender": "male",
+    "battle_type": "Singles",
+    "items": [
+        "Full Restore",
+        "Full Restore"
+    ],
+    "pokemon": [
+        {
+            "species": "Yanmega",
+            "species_id": 469,
+            "level": 49,
+            "hp": 157,
+            "atk": 94,
+            "def": 103,
+            "spe": 112,
+            "spa": 146,
+            "spd": 66,
+            "held_item": null,
+            "moves": [
+                "Air Slash",
+                "Bug Buzz",
+                "U-turn",
+                "Double Team"
+            ],
+            "ability": "Speed Boost",
+            "xp": 2079,
+            "nature_id": 19,
+            "nature": "Rash",
+            "personality": 14014344,
+            "forme": null
+        },
+        {
+            "species": "Scizor",
+            "species_id": 212,
+            "level": 49,
+            "hp": 142,
+            "atk": 147,
+            "def": 105,
+            "spe": 83,
+            "spa": 73,
+            "spd": 107,
+            "held_item": null,
+            "moves": [
+                "Iron Head",
+                "X-scissor",
+                "Night Slash",
+                "Quick Attack"
+            ],
+            "ability": "Swarm",
+            "xp": 2100,
+            "nature_id": 21,
+            "nature": "Gentle",
+            "personality": 975496,
+            "forme": null
+        },
+        {
+            "species": "Vespiquen",
+            "species_id": 416,
+            "level": 50,
+            "hp": 145,
+            "atk": 100,
+            "def": 122,
+            "spe": 60,
+            "spa": 90,
+            "spd": 134,
+            "held_item": null,
+            "moves": [
+                "Attack Order",
+                "Defend Order",
+                "Heal Order",
+                "Power Gem"
+            ],
+            "ability": "Pressure",
+            "xp": 2013,
+            "nature_id": 23,
+            "nature": "Careful",
+            "personality": 6349448,
+            "forme": null
+        },
+        {
+            "species": "Heracross",
+            "species_id": 214,
+            "level": 51,
+            "hp": 157,
+            "atk": 161,
+            "def": 96,
+            "spe": 107,
+            "spa": 61,
+            "spd": 105,
+            "held_item": null,
+            "moves": [
+                "Megahorn",
+                "Close Combat",
+                "Night Slash",
+                "Stone Edge"
+            ],
+            "ability": "Swarm",
+            "xp": 2185,
+            "nature_id": 4,
+            "nature": "Naughty",
+            "personality": 6727304,
+            "forme": null
+        },
+        {
+            "species": "Drapion",
+            "species_id": 452,
+            "level": 53,
+            "hp": 153,
+            "atk": 116,
+            "def": 137,
+            "spe": 133,
+            "spa": 75,
+            "spd": 100,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "X-scissor",
+                "Cross Poison",
+                "Ice Fang",
+                "Aerial Ace"
+            ],
+            "ability": "Battle Armor",
+            "xp": 2316,
+            "nature_id": 13,
+            "nature": "Jolly",
+            "personality": 16292488,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Pokemon League",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert"
+    ],
+    "money": -1
+}, 
+"elite2": {
+    "rom_id": 262,
+    "double_battle": false,
+    "trainer_class": "Elite Four Bertha",
+    "trainer_name": "Elite Four Bertha",
+    "trainer_gender": "female",
+    "battle_type": "Singles",
+    "items": [
+        "Full Restore",
+        "Full Restore"
+    ],
+    "pokemon": [
+        {
+            "species": "Whiscash",
+            "species_id": 340,
+            "level": 50,
+            "hp": 185,
+            "atk": 98,
+            "def": 83,
+            "spe": 80,
+            "spa": 105,
+            "spd": 91,
+            "held_item": null,
+            "moves": [
+                "Earth Power",
+                "Aqua Tail",
+                "Zen Headbutt",
+                "Sandstorm"
+            ],
+            "ability": "Oblivious",
+            "xp": 1692,
+            "nature_id": 16,
+            "nature": "Mild",
+            "personality": 6244216,
+            "forme": null
+        },
+        {
+            "species": "Gliscor",
+            "species_id": 472,
+            "level": 53,
+            "hp": 158,
+            "atk": 121,
+            "def": 153,
+            "spe": 121,
+            "spa": 68,
+            "spd": 100,
+            "held_item": null,
+            "moves": [
+                "Earthquake",
+                "Ice Fang",
+                "Fire Fang",
+                "Thunder Fang"
+            ],
+            "ability": "Hyper Cutter",
+            "xp": 2179,
+            "nature_id": 12,
+            "nature": "Serious",
+            "personality": 5301112,
+            "forme": null
+        },
+        {
+            "species": "Hippowdon",
+            "species_id": 450,
+            "level": 52,
+            "hp": 189,
+            "atk": 137,
+            "def": 143,
+            "spe": 69,
+            "spa": 91,
+            "spd": 95,
+            "held_item": null,
+            "moves": [
+                "Earthquake",
+                "Stone Edge",
+                "Crunch",
+                "Yawn"
+            ],
+            "ability": "Sand Stream",
+            "xp": 2205,
+            "nature_id": 24,
+            "nature": "Quirky",
+            "personality": 12296824,
+            "forme": null
+        },
+        {
+            "species": "Golem",
+            "species_id": 76,
+            "level": 52,
+            "hp": 160,
+            "atk": 135,
+            "def": 155,
+            "spe": 67,
+            "spa": 77,
+            "spd": 88,
+            "held_item": null,
+            "moves": [
+                "Earthquake",
+                "Fire Punch",
+                "ThunderPunch",
+                "Sandstorm"
+            ],
+            "ability": "Rock Head",
+            "xp": 1971,
+            "nature_id": 6,
+            "nature": "Docile",
+            "personality": 4968056,
+            "forme": null
+        },
+        {
+            "species": "Rhyperior",
+            "species_id": 464,
+            "level": 55,
+            "hp": 208,
+            "atk": 192,
+            "def": 164,
+            "spe": 65,
+            "spa": 82,
+            "spd": 73,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "Earthquake",
+                "Rock Wrecker",
+                "Megahorn",
+                "Avalanche"
+            ],
+            "ability": "Lightningrod",
+            "xp": 2557,
+            "nature_id": 4,
+            "nature": "Naughty",
+            "personality": 3478904,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Pokemon League",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert"
+    ],
+    "money": -1
+},
+"elite3": {
+    "rom_id": 263,
+    "double_battle": false,
+    "trainer_class": "Elite Four Flint",
+    "trainer_name": "Elite Four Flint",
+    "trainer_gender": "male",
+    "battle_type": "Singles",
+    "items": [
+        "Full Restore",
+        "Full Restore"
+    ],
+    "pokemon": [
+        {
+            "species": "Houndoom",
+            "species_id": 229,
+            "level": 52,
+            "hp": 155,
+            "atk": 114,
+            "def": 79,
+            "spe": 107,
+            "spa": 135,
+            "spd": 103,
+            "held_item": null,
+            "moves": [
+                "Flamethrower",
+                "Sludge Bomb",
+                "Dark Pulse",
+                "Sunny Day"
+            ],
+            "ability": "Early Bird",
+            "xp": 2272,
+            "nature_id": 7,
+            "nature": "Relaxed",
+            "personality": 15613832,
+            "forme": null
+        },
+        {
+            "species": "Flareon",
+            "species_id": 136,
+            "level": 55,
+            "hp": 153,
+            "atk": 164,
+            "def": 87,
+            "spe": 93,
+            "spa": 126,
+            "spd": 142,
+            "held_item": null,
+            "moves": [
+                "Overheat",
+                "Giga Impact",
+                "Quick Attack",
+                "Will-o-wisp"
+            ],
+            "ability": "Flash Fire",
+            "xp": 2332,
+            "nature_id": 24,
+            "nature": "Quirky",
+            "personality": 10361224,
+            "forme": null
+        },
+        {
+            "species": "Rapidash",
+            "species_id": 78,
+            "level": 53,
+            "hp": 147,
+            "atk": 126,
+            "def": 95,
+            "spe": 132,
+            "spa": 105,
+            "spd": 105,
+            "held_item": null,
+            "moves": [
+                "Flare Blitz",
+                "SolarBeam",
+                "Bounce",
+                "Sunny Day"
+            ],
+            "ability": "Run Away",
+            "xp": 2179,
+            "nature_id": 6,
+            "nature": "Docile",
+            "personality": 6859656,
+            "forme": null
+        },
+        {
+            "species": "Infernape",
+            "species_id": 392,
+            "level": 55,
+            "hp": 165,
+            "atk": 121,
+            "def": 108,
+            "spe": 140,
+            "spa": 135,
+            "spd": 99,
+            "held_item": null,
+            "moves": [
+                "Flare Blitz",
+                "ThunderPunch",
+                "Mach Punch",
+                "Earthquake"
+            ],
+            "ability": "Blaze",
+            "xp": 2463,
+            "nature_id": 5,
+            "nature": "Bold",
+            "personality": 8524680,
+            "forme": null
+        },
+        {
+            "species": "Magmortar",
+            "species_id": 467,
+            "level": 57,
+            "hp": 169,
+            "atk": 130,
+            "def": 88,
+            "spe": 116,
+            "spa": 164,
+            "spd": 143,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "Flamethrower",
+                "Thunderbolt",
+                "SolarBeam",
+                "Hyper Beam"
+            ],
+            "ability": "Flame Body",
+            "xp": 2430,
+            "nature_id": 21,
+            "nature": "Gentle",
+            "personality": 4629896,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Pokemon League",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert"
+    ],
+    "money": -1
+}, 
+"elite4": {
+    "rom_id": 264,
+    "double_battle": false,
+    "trainer_class": "Elite Four Lucian",
+    "trainer_name": "Elite Four Lucian",
+    "trainer_gender": "male",
+    "battle_type": "Singles",
+    "items": [
+        "Full Restore",
+        "Full Restore"
+    ],
+    "pokemon": [
+        {
+            "species": "Mr. Mime",
+            "species_id": 122,
+            "level": 53,
+            "hp": 121,
+            "atk": 68,
+            "def": 80,
+            "spe": 127,
+            "spa": 126,
+            "spd": 148,
+            "held_item": null,
+            "moves": [
+                "Psychic",
+                "Thunderbolt",
+                "Reflect",
+                "Light Screen"
+            ],
+            "ability": "Soundproof",
+            "xp": 1543,
+            "nature_id": 11,
+            "nature": "Hasty",
+            "personality": 16736136,
+            "forme": null
+        },
+        {
+            "species": "Espeon",
+            "species_id": 196,
+            "level": 55,
+            "hp": 153,
+            "atk": 93,
+            "def": 87,
+            "spe": 142,
+            "spa": 164,
+            "spd": 126,
+            "held_item": null,
+            "moves": [
+                "Psychic",
+                "Shadow Ball",
+                "Quick Attack",
+                "Signal Beam"
+            ],
+            "ability": "Synchronize",
+            "xp": 2320,
+            "nature_id": 0,
+            "nature": "Hardy",
+            "personality": 11678600,
+            "forme": null
+        },
+        {
+            "species": "Bronzong",
+            "species_id": 437,
+            "level": 54,
+            "hp": 152,
+            "atk": 117,
+            "def": 146,
+            "spe": 61,
+            "spa": 106,
+            "spd": 131,
+            "held_item": null,
+            "moves": [
+                "Psychic",
+                "Gyro Ball",
+                "Earthquake",
+                "Calm Mind"
+            ],
+            "ability": "Levitate",
+            "xp": 2175,
+            "nature_id": 14,
+            "nature": "Naive",
+            "personality": 16016264,
+            "forme": null
+        },
+        {
+            "species": "Alakazam",
+            "species_id": 65,
+            "level": 56,
+            "hp": 144,
+            "atk": 77,
+            "def": 72,
+            "spe": 156,
+            "spa": 173,
+            "spd": 117,
+            "held_item": null,
+            "moves": [
+                "Psychic",
+                "Energy Ball",
+                "Focus Blast",
+                "Recover"
+            ],
+            "ability": "Synchronize",
+            "xp": 2232,
+            "nature_id": 0,
+            "nature": "Hardy",
+            "personality": 12824200,
+            "forme": null
+        },
+        {
+            "species": "Gallade",
+            "species_id": 475,
+            "level": 59,
+            "hp": 166,
+            "atk": 170,
+            "def": 99,
+            "spe": 117,
+            "spa": 89,
+            "spd": 173,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "Drain Punch",
+                "Psycho Cut",
+                "Leaf Blade",
+                "Stone Edge"
+            ],
+            "ability": "Steadfast",
+            "xp": 2629,
+            "nature_id": 23,
+            "nature": "Careful",
+            "personality": 7635848,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Pokemon League",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert",
+        "Status"
+    ],
+    "money": -1
+}, 
+"champion": {
+    "rom_id": 267,
+    "double_battle": false,
+    "trainer_class": "Champion Cynthia",
+    "trainer_name": "Champion Cynthia",
+    "trainer_gender": "female",
+    "battle_type": "Singles",
+    "items": [
+        "Full Restore",
+        "Full Restore",
+        "Full Restore",
+        "Full Restore"
+    ],
+    "pokemon": [
+        {
+            "species": "Spiritomb",
+            "species_id": 442,
+            "level": 58,
+            "hp": 143,
+            "atk": 116,
+            "def": 147,
+            "spe": 69,
+            "spa": 129,
+            "spd": 147,
+            "held_item": null,
+            "moves": [
+                "Dark Pulse",
+                "Psychic",
+                "Silver Wind",
+                "Shadow Ball"
+            ],
+            "ability": "Pressure",
+            "xp": 2088,
+            "nature_id": 10,
+            "nature": "Timid",
+            "personality": 7210360,
+            "forme": null
+        },
+        {
+            "species": "Roserade",
+            "species_id": 407,
+            "level": 58,
+            "hp": 155,
+            "atk": 103,
+            "def": 77,
+            "spe": 126,
+            "spa": 183,
+            "spd": 144,
+            "held_item": null,
+            "moves": [
+                "Energy Ball",
+                "Sludge Bomb",
+                "Toxic",
+                "Extrasensory"
+            ],
+            "ability": "Natural Cure",
+            "xp": 2535,
+            "nature_id": 16,
+            "nature": "Mild",
+            "personality": 13956216,
+            "forme": null
+        },
+        {
+            "species": "Togekiss",
+            "species_id": 468,
+            "level": 60,
+            "hp": 190,
+            "atk": 83,
+            "def": 137,
+            "spe": 119,
+            "spa": 167,
+            "spd": 161,
+            "held_item": null,
+            "moves": [
+                "Air Slash",
+                "Aura Sphere",
+                "Water Pulse",
+                "Shock Wave"
+            ],
+            "ability": "Hustle",
+            "xp": 2827,
+            "nature_id": 0,
+            "nature": "Hardy",
+            "personality": 11879800,
+            "forme": null
+        },
+        {
+            "species": "Lucario",
+            "species_id": 448,
+            "level": 60,
+            "hp": 172,
+            "atk": 155,
+            "def": 107,
+            "spe": 131,
+            "spa": 144,
+            "spd": 117,
+            "held_item": null,
+            "moves": [
+                "Aura Sphere",
+                "Extreme Speed",
+                "Shadow Ball",
+                "Stone Edge"
+            ],
+            "ability": "Steadfast",
+            "xp": 2622,
+            "nature_id": 23,
+            "nature": "Careful",
+            "personality": 15734648,
+            "forme": null
+        },
+        {
+            "species": "Milotic",
+            "species_id": 350,
+            "level": 58,
+            "hp": 195,
+            "atk": 92,
+            "def": 114,
+            "spe": 116,
+            "spa": 138,
+            "spd": 167,
+            "held_item": null,
+            "moves": [
+                "Surf",
+                "Ice Beam",
+                "Mirror Coat",
+                "Dragon Pulse"
+            ],
+            "ability": "Marvel Scale",
+            "xp": 2646,
+            "nature_id": 6,
+            "nature": "Docile",
+            "personality": 1454456,
+            "forme": null
+        },
+        {
+            "species": "Garchomp",
+            "species_id": 445,
+            "level": 62,
+            "hp": 224,
+            "atk": 184,
+            "def": 141,
+            "spe": 150,
+            "spa": 122,
+            "spd": 129,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "Dragon Rush",
+                "Earthquake",
+                "Flamethrower",
+                "Giga Impact"
+            ],
+            "ability": "Sand Veil",
+            "xp": 2895,
+            "nature_id": 24,
+            "nature": "Quirky",
+            "personality": 12572024,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Pokemon League",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert"
+    ],
+    "money": -1
+},
+"mars1": {
+    "rom_id": 295,
+    "double_battle": false,
+    "trainer_class": "Commander Mars",
+    "trainer_name": "Commander Mars",
+    "trainer_gender": "female",
+    "battle_type": "Singles",
+    "items": [],
+    "pokemon": [
+        {
+            "species": "Zubat",
+            "species_id": 41,
+            "level": 15,
+            "hp": 38,
+            "atk": 18,
+            "def": 18,
+            "spe": 23,
+            "spa": 15,
+            "spd": 18,
+            "held_item": null,
+            "moves": [
+                "Bite",
+                "Leech Life",
+                "Toxic"
+            ],
+            "ability": "Inner Focus",
+            "xp": 172,
+            "nature_id": 5,
+            "nature": "Bold",
+            "personality": 3106680,
+            "forme": null
+        },
+        {
+            "species": "Purugly",
+            "species_id": 432,
+            "level": 17,
+            "hp": 53,
+            "atk": 34,
+            "def": 28,
+            "spe": 45,
+            "spa": 28,
+            "spd": 27,
+            "held_item": "Oran Berry",
+            "moves": [
+                "Feint Attack",
+                "Scratch",
+                "Fake Out"
+            ],
+            "ability": "Thick Fat",
+            "xp": 666,
+            "nature_id": 18,
+            "nature": "Bashful",
+            "personality": 16546168,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Valley Windworks",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert"
+    ],
+    "money": -1
+},
+"leader2": {
+    "rom_id": 315,
+    "double_battle": false,
+    "trainer_class": "Leader Gardenia",
+    "trainer_name": "Leader Gardenia",
+    "trainer_gender": "female",
+    "battle_type": "Singles",
+    "items": [
+        "Super Potion",
+        "Super Potion"
+    ],
+    "pokemon": [
+        {
+            "species": "Turtwig",
+            "species_id": 387,
+            "level": 20,
+            "hp": 53,
+            "atk": 33,
+            "def": 31,
+            "spe": 18,
+            "spa": 24,
+            "spd": 28,
+            "held_item": null,
+            "moves": [
+                "Grass Knot",
+                "Razor Leaf",
+                "Sunny Day",
+                "Reflect"
+            ],
+            "ability": "Overgrow",
+            "xp": 273,
+            "nature_id": 24,
+            "nature": "Quirky",
+            "personality": 11356024,
+            "forme": null
+        },
+        {
+            "species": "Cherrim",
+            "species_id": 421,
+            "level": 20,
+            "hp": 59,
+            "atk": 30,
+            "def": 37,
+            "spe": 40,
+            "spa": 41,
+            "spd": 33,
+            "held_item": null,
+            "moves": [
+                "Grass Knot",
+                "Leech Seed",
+                "Magical Leaf",
+                "Safeguard"
+            ],
+            "ability": "Flower Gift",
+            "xp": 570,
+            "nature_id": 9,
+            "nature": "Lax",
+            "personality": 1662584,
+            "forme": null
+        },
+        {
+            "species": "Roserade",
+            "species_id": 407,
+            "level": 22,
+            "hp": 59,
+            "atk": 37,
+            "def": 30,
+            "spe": 49,
+            "spa": 61,
+            "spd": 46,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "Grass Knot",
+                "Magical Leaf",
+                "Poison Sting",
+                "Stun Spore"
+            ],
+            "ability": "Natural Cure",
+            "xp": 961,
+            "nature_id": 14,
+            "nature": "Naive",
+            "personality": 8044664,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Eterna City",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert"
+    ],
+    "money": -1
+},
+"leader5": {
+    "rom_id": 316,
+    "double_battle": false,
+    "trainer_class": "Leader Wake",
+    "trainer_name": "Leader Wake",
+    "trainer_gender": "male",
+    "battle_type": "Singles",
+    "items": [
+        "Hyper Potion",
+        "Hyper Potion"
+    ],
+    "pokemon": [
+        {
+            "species": "Gyarados",
+            "species_id": 130,
+            "level": 33,
+            "hp": 111,
+            "atk": 93,
+            "def": 69,
+            "spe": 64,
+            "spa": 50,
+            "spd": 68,
+            "held_item": null,
+            "moves": [
+                "Waterfall",
+                "Brine",
+                "Bite",
+                "Twister"
+            ],
+            "ability": "Intimidate",
+            "xp": 1512,
+            "nature_id": 9,
+            "nature": "Lax",
+            "personality": 12258184,
+            "forme": null
+        },
+        {
+            "species": "Quagsire",
+            "species_id": 195,
+            "level": 34,
+            "hp": 114,
+            "atk": 74,
+            "def": 68,
+            "spe": 34,
+            "spa": 55,
+            "spd": 49,
+            "held_item": null,
+            "moves": [
+                "Mud Shot",
+                "Rock Tomb",
+                "Water Pulse",
+                "Yawn"
+            ],
+            "ability": "Damp",
+            "xp": 997,
+            "nature_id": 4,
+            "nature": "Naughty",
+            "personality": 365704,
+            "forme": null
+        },
+        {
+            "species": "Floatzel",
+            "species_id": 419,
+            "level": 37,
+            "hp": 116,
+            "atk": 97,
+            "def": 52,
+            "spe": 96,
+            "spa": 74,
+            "spd": 43,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "Brine",
+                "Ice Fang",
+                "Crunch",
+                "Aqua Jet"
+            ],
+            "ability": "Swift Swim",
+            "xp": 1410,
+            "nature_id": 4,
+            "nature": "Naughty",
+            "personality": 9031304,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Pastoria City",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert"
+    ],
+    "money": -1
+},
+"leader4":{
+    "rom_id": 317,
+    "double_battle": false,
+    "trainer_class": "Leader Maylene",
+    "trainer_name": "Leader Maylene",
+    "trainer_gender": "female",
+    "battle_type": "Singles",
+    "items": [],
+    "pokemon": [
+        {
+            "species": "Meditite",
+            "species_id": 307,
+            "level": 28,
+            "hp": 61,
+            "atk": 37,
+            "def": 42,
+            "spe": 40,
+            "spa": 34,
+            "spd": 42,
+            "held_item": null,
+            "moves": [
+                "Drain Punch",
+                "Confusion",
+                "Rock Tomb",
+                "Fake Out"
+            ],
+            "ability": "Pure Power",
+            "xp": 546,
+            "nature_id": 2,
+            "nature": "Brave",
+            "personality": 14828152,
+            "forme": null
+        },
+        {
+            "species": "Machoke",
+            "species_id": 67,
+            "level": 29,
+            "hp": 92,
+            "atk": 75,
+            "def": 52,
+            "spe": 38,
+            "spa": 40,
+            "spd": 41,
+            "held_item": null,
+            "moves": [
+                "Karate Chop",
+                "Rock Tomb",
+                "Strength",
+                "Focus Energy"
+            ],
+            "ability": "Guts",
+            "xp": 906,
+            "nature_id": 4,
+            "nature": "Naughty",
+            "personality": 1533304,
+            "forme": null
+        },
+        {
+            "species": "Lucario",
+            "species_id": 448,
+            "level": 32,
+            "hp": 94,
+            "atk": 83,
+            "def": 51,
+            "spe": 77,
+            "spa": 86,
+            "spd": 57,
+            "held_item": null,
+            "moves": [
+                "Drain Punch",
+                "Force Palm",
+                "Metal Claw",
+                "Bone Rush"
+            ],
+            "ability": "Steadfast",
+            "xp": 1398,
+            "nature_id": 11,
+            "nature": "Hasty",
+            "personality": 9065336,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Veilstone City",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert"
+    ],
+    "money": -1
+},
+"leader3": {
+    "rom_id": 318,
+    "double_battle": false,
+    "trainer_class": "Leader Fantina",
+    "trainer_name": "Leader Fantina",
+    "trainer_gender": "female",
+    "battle_type": "Singles",
+    "items": [
+        "Super Potion",
+        "Super Potion"
+    ],
+    "pokemon": [
+        {
+            "species": "Duskull",
+            "species_id": 355,
+            "level": 24,
+            "hp": 46,
+            "atk": 27,
+            "def": 45,
+            "spe": 19,
+            "spa": 24,
+            "spd": 51,
+            "held_item": null,
+            "moves": [
+                "Will-o-wisp",
+                "Pursuit",
+                "Shadow Sneak",
+                "Future Sight"
+            ],
+            "ability": "Levitate",
+            "xp": 498,
+            "nature_id": 16,
+            "nature": "Mild",
+            "personality": 13713016,
+            "forme": null
+        },
+        {
+            "species": "Haunter",
+            "species_id": 93,
+            "level": 24,
+            "hp": 58,
+            "atk": 31,
+            "def": 29,
+            "spe": 53,
+            "spa": 63,
+            "spd": 34,
+            "held_item": null,
+            "moves": [
+                "Shadow Claw",
+                "Sucker Punch",
+                "Hypnosis",
+                "Confuse Ray"
+            ],
+            "ability": "Levitate",
+            "xp": 648,
+            "nature_id": 18,
+            "nature": "Bashful",
+            "personality": 7682168,
+            "forme": null
+        },
+        {
+            "species": "Mismagius",
+            "species_id": 429,
+            "level": 26,
+            "hp": 70,
+            "atk": 39,
+            "def": 42,
+            "spe": 62,
+            "spa": 55,
+            "spd": 62,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "Shadow Ball",
+                "Psybeam",
+                "Magical Leaf",
+                "Confuse Ray"
+            ],
+            "ability": "Levitate",
+            "xp": 1041,
+            "nature_id": 8,
+            "nature": "Impish",
+            "personality": 3039608,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Hearthome City",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert"
+    ],
+    "money": -1
+},
+"leader7": {
+    "rom_id": 319,
+    "double_battle": false,
+    "trainer_class": "Leader Candice",
+    "trainer_name": "Leader Candice",
+    "trainer_gender": "female",
+    "battle_type": "Singles",
+    "items": [
+        "Hyper Potion",
+        "Full Restore"
+    ],
+    "pokemon": [
+        {
+            "species": "Sneasel",
+            "species_id": 215,
+            "level": 40,
+            "hp": 106,
+            "atk": 93,
+            "def": 61,
+            "spe": 109,
+            "spa": 45,
+            "spd": 77,
+            "held_item": null,
+            "moves": [
+                "Slash",
+                "Aerial Ace",
+                "Feint Attack",
+                "Ice Shard"
+            ],
+            "ability": "Inner Focus",
+            "xp": 1131,
+            "nature_id": 6,
+            "nature": "Docile",
+            "personality": 11950456,
+            "forme": null
+        },
+        {
+            "species": "Piloswine",
+            "species_id": 221,
+            "level": 40,
+            "hp": 142,
+            "atk": 97,
+            "def": 72,
+            "spe": 57,
+            "spa": 71,
+            "spd": 65,
+            "held_item": null,
+            "moves": [
+                "Avalanche",
+                "Stone Edge",
+                "Earthquake",
+                "Hail"
+            ],
+            "ability": "Oblivious",
+            "xp": 1371,
+            "nature_id": 16,
+            "nature": "Mild",
+            "personality": 12394616,
+            "forme": null
+        },
+        {
+            "species": "Abomasnow",
+            "species_id": 460,
+            "level": 42,
+            "hp": 140,
+            "atk": 94,
+            "def": 88,
+            "spe": 61,
+            "spa": 94,
+            "spd": 89,
+            "held_item": null,
+            "moves": [
+                "Avalanche",
+                "Wood Hammer",
+                "Water Pulse",
+                "Focus Blast"
+            ],
+            "ability": "Snow Warning",
+            "xp": 1926,
+            "nature_id": 7,
+            "nature": "Relaxed",
+            "personality": 2272632,
+            "forme": null
+        },
+        {
+            "species": "Froslass",
+            "species_id": 478,
+            "level": 44,
+            "hp": 128,
+            "atk": 96,
+            "def": 71,
+            "spe": 115,
+            "spa": 88,
+            "spd": 79,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "Blizzard",
+                "Double Team",
+                "Shadow Ball",
+                "Psychic"
+            ],
+            "ability": "Snow Cloak",
+            "xp": 1762,
+            "nature_id": 1,
+            "nature": "Lonely",
+            "personality": 14937976,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Snowpoint City",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert"
+    ],
+    "money": -1
+},
+"leader8":{
+    "rom_id": 320,
+    "double_battle": false,
+    "trainer_class": "Leader Volkner",
+    "trainer_name": "Leader Volkner",
+    "trainer_gender": "male",
+    "battle_type": "Singles",
+    "items": [
+        "Hyper Potion",
+        "Full Restore"
+    ],
+    "pokemon": [
+        {
+            "species": "Jolteon",
+            "species_id": 135,
+            "level": 46,
+            "hp": 129,
+            "atk": 78,
+            "def": 81,
+            "spe": 124,
+            "spa": 120,
+            "spd": 106,
+            "held_item": null,
+            "moves": [
+                "Thunder Wave",
+                "Charge Beam",
+                "Iron Tail",
+                "Quick Attack"
+            ],
+            "ability": "Volt Absorb",
+            "xp": 1941,
+            "nature_id": 7,
+            "nature": "Relaxed",
+            "personality": 9521032,
+            "forme": null
+        },
+        {
+            "species": "Raichu",
+            "species_id": 26,
+            "level": 46,
+            "hp": 125,
+            "atk": 101,
+            "def": 62,
+            "spe": 110,
+            "spa": 101,
+            "spd": 101,
+            "held_item": null,
+            "moves": [
+                "Charge Beam",
+                "Focus Blast",
+                "Signal Beam",
+                "Quick Attack"
+            ],
+            "ability": "Static",
+            "xp": 1201,
+            "nature_id": 21,
+            "nature": "Gentle",
+            "personality": 10236296,
+            "forme": null
+        },
+        {
+            "species": "Luxray",
+            "species_id": 405,
+            "level": 48,
+            "hp": 149,
+            "atk": 134,
+            "def": 104,
+            "spe": 86,
+            "spa": 110,
+            "spd": 85,
+            "held_item": null,
+            "moves": [
+                "Ice Fang",
+                "Thunder Fang",
+                "Crunch",
+                "Fire Fang"
+            ],
+            "ability": "Rivalry",
+            "xp": 1995,
+            "nature_id": 9,
+            "nature": "Lax",
+            "personality": 2965384,
+            "forme": null
+        },
+        {
+            "species": "Electivire",
+            "species_id": 466,
+            "level": 50,
+            "hp": 137,
+            "atk": 129,
+            "def": 94,
+            "spe": 109,
+            "spa": 98,
+            "spd": 97,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "ThunderPunch",
+                "Fire Punch",
+                "Quick Attack",
+                "Giga Impact"
+            ],
+            "ability": "Motor Drive",
+            "xp": 2131,
+            "nature_id": 8,
+            "nature": "Impish",
+            "personality": 15497608,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Sunyshore City",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert"
+    ],
+    "money": -1
+},
+"mars2": {
+    "rom_id": 405,
+    "double_battle": false,
+    "trainer_class": "Commander Mars",
+    "trainer_name": "Commander Mars",
+    "trainer_gender": "female",
+    "battle_type": "Singles",
+    "items": [],
+    "pokemon": [
+        {
+            "species": "Golbat",
+            "species_id": 42,
+            "level": 38,
+            "hp": 114,
+            "atk": 66,
+            "def": 67,
+            "spe": 82,
+            "spa": 69,
+            "spd": 71,
+            "held_item": null,
+            "moves": [
+                "Air Cutter",
+                "Bite",
+                "Toxic",
+                "Supersonic"
+            ],
+            "ability": "Inner Focus",
+            "xp": 1392,
+            "nature_id": 15,
+            "nature": "Modest",
+            "personality": 350840,
+            "forme": null
+        },
+        {
+            "species": "Bronzor",
+            "species_id": 436,
+            "level": 38,
+            "hp": 100,
+            "atk": 32,
+            "def": 86,
+            "spe": 27,
+            "spa": 32,
+            "spd": 79,
+            "held_item": null,
+            "moves": [
+                "Gyro Ball",
+                "Extrasensory",
+                "Iron Defense",
+                "Confuse Ray"
+            ],
+            "ability": "Levitate",
+            "xp": 585,
+            "nature_id": 7,
+            "nature": "Relaxed",
+            "personality": 14208632,
+            "forme": null
+        },
+        {
+            "species": "Purugly",
+            "species_id": 432,
+            "level": 40,
+            "hp": 116,
+            "atk": 80,
+            "def": 65,
+            "spe": 104,
+            "spa": 65,
+            "spd": 61,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "Slash",
+                "Feint Attack",
+                "Hypnosis",
+                "Fake Out"
+            ],
+            "ability": "Thick Fat",
+            "xp": 1567,
+            "nature_id": 18,
+            "nature": "Bashful",
+            "personality": 13371768,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Lake Verity",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert"
+    ],
+    "money": -1
+},
+"jupiter1": {
+    "rom_id": 406,
+    "double_battle": false,
+    "trainer_class": "Commander Jupiter",
+    "trainer_name": "Commander Jupiter",
+    "trainer_gender": "female",
+    "battle_type": "Singles",
+    "items": [],
+    "pokemon": [
+        {
+            "species": "Zubat",
+            "species_id": 41,
+            "level": 21,
+            "hp": 50,
+            "atk": 28,
+            "def": 22,
+            "spe": 27,
+            "spa": 20,
+            "spd": 24,
+            "held_item": null,
+            "moves": [
+                "Giga Drain",
+                "Wing Attack",
+                "Bite"
+            ],
+            "ability": "Inner Focus",
+            "xp": 243,
+            "nature_id": 2,
+            "nature": "Brave",
+            "personality": 15698552,
+            "forme": null
+        },
+        {
+            "species": "Skuntank",
+            "species_id": 435,
+            "level": 23,
+            "hp": 83,
+            "atk": 45,
+            "def": 38,
+            "spe": 46,
+            "spa": 44,
+            "spd": 35,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "Night Slash",
+                "Poison Gas",
+                "Screech",
+                "SmokeScreen"
+            ],
+            "ability": "Stench",
+            "xp": 1029,
+            "nature_id": 15,
+            "nature": "Modest",
+            "personality": 4421240,
+            "forme": null
+        }
+    ],
+    "trainer_location": "T.G. Eterna Bldg",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert"
+    ],
+    "money": -1
+}, 
+"jupterdouble": {
+    "rom_id": 407,
+    "double_battle": false,
+    "trainer_class": "Commander Jupiter",
+    "trainer_name": "Commander Jupiter",
+    "trainer_gender": "female",
+    "battle_type": "Singles",
+    "items": [],
+    "pokemon": [
+        {
+            "species": "Bronzor",
+            "species_id": 436,
+            "level": 44,
+            "hp": 114,
+            "atk": 36,
+            "def": 91,
+            "spe": 35,
+            "spa": 36,
+            "spd": 91,
+            "held_item": null,
+            "moves": [
+                "Gyro Ball",
+                "Extrasensory",
+                "Rock Slide",
+                "Reflect"
+            ],
+            "ability": "Levitate",
+            "xp": 678,
+            "nature_id": 24,
+            "nature": "Quirky",
+            "personality": 1935224,
+            "forme": null
+        },
+        {
+            "species": "Golbat",
+            "species_id": 42,
+            "level": 44,
+            "hp": 130,
+            "atk": 93,
+            "def": 77,
+            "spe": 84,
+            "spa": 72,
+            "spd": 81,
+            "held_item": null,
+            "moves": [
+                "Sludge Bomb",
+                "Air Cutter",
+                "Giga Drain",
+                "Mean Look"
+            ],
+            "ability": "Inner Focus",
+            "xp": 1611,
+            "nature_id": 2,
+            "nature": "Brave",
+            "personality": 10444152,
+            "forme": null
+        },
+        {
+            "species": "Skuntank",
+            "species_id": 435,
+            "level": 46,
+            "hp": 161,
+            "atk": 101,
+            "def": 84,
+            "spe": 83,
+            "spa": 81,
+            "spd": 72,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "Night Slash",
+                "Poison Jab",
+                "Flamethrower",
+                "SmokeScreen"
+            ],
+            "ability": "Stench",
+            "xp": 2059,
+            "nature_id": 7,
+            "nature": "Relaxed",
+            "personality": 551032,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Spear Pillar",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert",
+        "Status"
+    ],
+    "money": -1
+},
+"saturn1": {
+    "rom_id": 408,
+    "double_battle": false,
+    "trainer_class": "Commander Saturn",
+    "trainer_name": "Commander Saturn",
+    "trainer_gender": "female",
+    "battle_type": "Singles",
+    "items": [],
+    "pokemon": [
+        {
+            "species": "Golbat",
+            "species_id": 42,
+            "level": 38,
+            "hp": 114,
+            "atk": 81,
+            "def": 67,
+            "spe": 82,
+            "spa": 63,
+            "spd": 63,
+            "held_item": null,
+            "moves": [
+                "Air Cutter",
+                "Bite",
+                "Toxic",
+                "Supersonic"
+            ],
+            "ability": "Inner Focus",
+            "xp": 1392,
+            "nature_id": 4,
+            "nature": "Naughty",
+            "personality": 4848504,
+            "forme": null
+        },
+        {
+            "species": "Bronzor",
+            "species_id": 436,
+            "level": 38,
+            "hp": 100,
+            "atk": 32,
+            "def": 79,
+            "spe": 31,
+            "spa": 32,
+            "spd": 79,
+            "held_item": null,
+            "moves": [
+                "Gyro Ball",
+                "Shadow Ball",
+                "Rock Tomb",
+                "Iron Defense"
+            ],
+            "ability": "Levitate",
+            "xp": 585,
+            "nature_id": 24,
+            "nature": "Quirky",
+            "personality": 4060024,
+            "forme": null
+        },
+        {
+            "species": "Toxicroak",
+            "species_id": 454,
+            "level": 40,
+            "hp": 126,
+            "atk": 108,
+            "def": 66,
+            "spe": 82,
+            "spa": 74,
+            "spd": 66,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "Poison Jab",
+                "Revenge",
+                "Mud Bomb",
+                "Feint Attack"
+            ],
+            "ability": "Anticipation",
+            "xp": 1551,
+            "nature_id": 3,
+            "nature": "Adamant",
+            "personality": 11684728,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Valor Cavern",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert"
+    ],
+    "money": -1
+},
+"saturn2": {
+    "rom_id": 409,
+    "double_battle": false,
+    "trainer_class": "Commander Saturn",
+    "trainer_name": "Commander Saturn",
+    "trainer_gender": "female",
+    "battle_type": "Singles",
+    "items": [],
+    "pokemon": [
+        {
+            "species": "Golbat",
+            "species_id": 42,
+            "level": 42,
+            "hp": 125,
+            "atk": 73,
+            "def": 80,
+            "spe": 90,
+            "spa": 69,
+            "spd": 78,
+            "held_item": null,
+            "moves": [
+                "Air Cutter",
+                "Bite",
+                "Poison Fang",
+                "Confuse Ray"
+            ],
+            "ability": "Inner Focus",
+            "xp": 1539,
+            "nature_id": 5,
+            "nature": "Bold",
+            "personality": 6754680,
+            "forme": null
+        },
+        {
+            "species": "Bronzor",
+            "species_id": 436,
+            "level": 42,
+            "hp": 109,
+            "atk": 35,
+            "def": 87,
+            "spe": 34,
+            "spa": 35,
+            "spd": 87,
+            "held_item": null,
+            "moves": [
+                "Gyro Ball",
+                "Extrasensory",
+                "Shadow Ball",
+                "Confuse Ray"
+            ],
+            "ability": "Levitate",
+            "xp": 648,
+            "nature_id": 0,
+            "nature": "Hardy",
+            "personality": 5966200,
+            "forme": null
+        },
+        {
+            "species": "Toxicroak",
+            "species_id": 454,
+            "level": 44,
+            "hp": 137,
+            "atk": 118,
+            "def": 72,
+            "spe": 90,
+            "spa": 91,
+            "spd": 64,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "Poison Jab",
+                "Brick Break",
+                "X-scissor",
+                "Feint Attack"
+            ],
+            "ability": "Anticipation",
+            "xp": 1705,
+            "nature_id": 4,
+            "nature": "Naughty",
+            "personality": 13590904,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Galactic HQ",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert"
+    ],
+    "money": -1
+},
+"marsdouble": {
+    "rom_id": 528,
+    "double_battle": false,
+    "trainer_class": "Commander Mars",
+    "trainer_name": "Commander Mars",
+    "trainer_gender": "female",
+    "battle_type": "Singles",
+    "items": [],
+    "pokemon": [
+        {
+            "species": "Bronzor",
+            "species_id": 436,
+            "level": 44,
+            "hp": 114,
+            "atk": 39,
+            "def": 91,
+            "spe": 31,
+            "spa": 36,
+            "spd": 91,
+            "held_item": null,
+            "moves": [
+                "Gyro Ball",
+                "Extrasensory",
+                "Light Screen",
+                "Confuse Ray"
+            ],
+            "ability": "Levitate",
+            "xp": 678,
+            "nature_id": 2,
+            "nature": "Brave",
+            "personality": 1074552,
+            "forme": null
+        },
+        {
+            "species": "Golbat",
+            "species_id": 42,
+            "level": 44,
+            "hp": 130,
+            "atk": 93,
+            "def": 69,
+            "spe": 94,
+            "spa": 72,
+            "spd": 81,
+            "held_item": null,
+            "moves": [
+                "Air Cutter",
+                "Bite",
+                "Poison Fang",
+                "Confuse Ray"
+            ],
+            "ability": "Inner Focus",
+            "xp": 1611,
+            "nature_id": 1,
+            "nature": "Lonely",
+            "personality": 3993976,
+            "forme": null
+        },
+        {
+            "species": "Purugly",
+            "species_id": 432,
+            "level": 46,
+            "hp": 132,
+            "atk": 91,
+            "def": 74,
+            "spe": 130,
+            "spa": 66,
+            "spd": 70,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "Slash",
+                "Shadow Claw",
+                "Aerial Ace",
+                "Hypnosis"
+            ],
+            "ability": "Thick Fat",
+            "xp": 1803,
+            "nature_id": 13,
+            "nature": "Jolly",
+            "personality": 237688,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Spear Pillar",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert",
+        "Status"
+    ],
+    "money": -1
+},
+"mars3":
+{
+    "rom_id": 926,
+    "double_battle": false,
+    "trainer_class": "Commander Mars",
+    "trainer_name": "Commander Mars",
+    "trainer_gender": "female",
+    "battle_type": "Singles",
+    "items": [],
+    "pokemon": [
+        {
+            "species": "Bronzong",
+            "species_id": 437,
+            "level": 58,
+            "hp": 159,
+            "atk": 134,
+            "def": 153,
+            "spe": 51,
+            "spa": 110,
+            "spd": 153,
+            "held_item": null,
+            "moves": [
+                "Gyro Ball",
+                "Extrasensory",
+                "Light Screen",
+                "Confuse Ray"
+            ],
+            "ability": "Levitate",
+            "xp": 2335,
+            "nature_id": 2,
+            "nature": "Brave",
+            "personality": 6104952,
+            "forme": null
+        },
+        {
+            "species": "Golbat",
+            "species_id": 42,
+            "level": 58,
+            "hp": 168,
+            "atk": 111,
+            "def": 90,
+            "spe": 123,
+            "spa": 103,
+            "spd": 105,
+            "held_item": null,
+            "moves": [
+                "Air Cutter",
+                "Bite",
+                "Poison Fang",
+                "Confuse Ray"
+            ],
+            "ability": "Inner Focus",
+            "xp": 2124,
+            "nature_id": 16,
+            "nature": "Mild",
+            "personality": 8605816,
+            "forme": null
+        },
+        {
+            "species": "Purugly",
+            "species_id": 432,
+            "level": 60,
+            "hp": 169,
+            "atk": 117,
+            "def": 105,
+            "spe": 153,
+            "spa": 96,
+            "spd": 81,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "Slash",
+                "Shadow Claw",
+                "Aerial Ace",
+                "Hypnosis"
+            ],
+            "ability": "Thick Fat",
+            "xp": 2352,
+            "nature_id": 9,
+            "nature": "Lax",
+            "personality": 4849784,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Stark Mountain",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert",
+        "Status"
+    ],
+    "money": -1
+},
+"jupiter2": {
+    "rom_id": 927,
+    "double_battle": false,
+    "trainer_class": "Commander Jupiter",
+    "trainer_name": "Commander Jupiter",
+    "trainer_gender": "female",
+    "battle_type": "Singles",
+    "items": [],
+    "pokemon": [
+        {
+            "species": "Bronzong",
+            "species_id": 437,
+            "level": 58,
+            "hp": 159,
+            "atk": 122,
+            "def": 137,
+            "spe": 57,
+            "spa": 121,
+            "spd": 153,
+            "held_item": null,
+            "moves": [
+                "Gyro Ball",
+                "Extrasensory",
+                "Rock Slide",
+                "Reflect"
+            ],
+            "ability": "Levitate",
+            "xp": 2335,
+            "nature_id": 16,
+            "nature": "Mild",
+            "personality": 16356216,
+            "forme": null
+        },
+        {
+            "species": "Golbat",
+            "species_id": 42,
+            "level": 58,
+            "hp": 168,
+            "atk": 99,
+            "def": 100,
+            "spe": 123,
+            "spa": 94,
+            "spd": 115,
+            "held_item": null,
+            "moves": [
+                "Sludge Bomb",
+                "Air Cutter",
+                "Giga Drain",
+                "Mean Look"
+            ],
+            "ability": "Inner Focus",
+            "xp": 2124,
+            "nature_id": 20,
+            "nature": "Calm",
+            "personality": 9472120,
+            "forme": null
+        },
+        {
+            "species": "Skuntank",
+            "species_id": 435,
+            "level": 60,
+            "hp": 208,
+            "atk": 131,
+            "def": 89,
+            "spe": 120,
+            "spa": 114,
+            "spd": 92,
+            "held_item": "Sitrus Berry",
+            "moves": [
+                "Night Slash",
+                "Poison Jab",
+                "Flamethrower",
+                "SmokeScreen"
+            ],
+            "ability": "Stench",
+            "xp": 2686,
+            "nature_id": 16,
+            "nature": "Mild",
+            "personality": 16356216,
+            "forme": null
+        }
+    ],
+    "trainer_location": "Stark Mountain",
+    "ai_flags": [
+        "Basic",
+        "Evaluate Attack",
+        "Expert",
+        "Status"
+    ],
+    "money": -1
+},
+"cyrus1": {
+            "rom_id": 913,
+            "double_battle": false,
+            "trainer_class": "Galactic Boss Cyrus",
+            "trainer_name": "Galactic Boss Cyrus",
+            "trainer_gender": "male",
+            "battle_type": "Singles",
+            "items": [
+                "Hyper Potion"
+            ],
+            "pokemon": [
+                {
+                    "species": "Sneasel",
+                    "species_id": 215,
+                    "level": 34,
+                    "hp": 91,
+                    "atk": 79,
+                    "def": 57,
+                    "spe": 83,
+                    "spa": 39,
+                    "spd": 66,
+                    "held_item": null,
+                    "moves": [
+                        "Slash",
+                        "Ice Punch",
+                        "Quick Attack",
+                        "Screech"
+                    ],
+                    "ability": "Inner Focus",
+                    "xp": 961,
+                    "nature_id": 7,
+                    "nature": "Relaxed",
+                    "personality": 16682632,
+                    "forme": null
+                },
+                {
+                    "species": "Golbat",
+                    "species_id": 42,
+                    "level": 34,
+                    "hp": 105,
+                    "atk": 69,
+                    "def": 62,
+                    "spe": 68,
+                    "spa": 64,
+                    "spd": 66,
+                    "held_item": null,
+                    "moves": [
+                        "Poison Fang",
+                        "Air Cutter",
+                        "Bite",
+                        "Supersonic"
+                    ],
+                    "ability": "Inner Focus",
+                    "xp": 1245,
+                    "nature_id": 17,
+                    "nature": "Quiet",
+                    "personality": 9619592,
+                    "forme": null
+                },
+                {
+                    "species": "Murkrow",
+                    "species_id": 198,
+                    "level": 36,
+                    "hp": 100,
+                    "atk": 77,
+                    "def": 50,
+                    "spe": 81,
+                    "spa": 69,
+                    "spd": 46,
+                    "held_item": "Sitrus Berry",
+                    "moves": [
+                        "Drill Peck",
+                        "Night Shade",
+                        "Astonish",
+                        "Feint Attack"
+                    ],
+                    "ability": "Insomnia",
+                    "xp": 825,
+                    "nature_id": 8,
+                    "nature": "Impish",
+                    "personality": 7536008,
+                    "forme": null
+                }
+            ],
+            "trainer_location": "Celestic Town",
+            "ai_flags": [
+                "Basic",
+                "Evaluate Attack",
+                "Expert"
+            ],
+            "money": -1
+        },
+"cyrus2": {
+            "rom_id": 403,
+            "double_battle": false,
+            "trainer_class": "Galactic Boss Cyrus",
+            "trainer_name": "Galactic Boss Cyrus",
+            "trainer_gender": "male",
+            "battle_type": "Singles",
+            "items": [
+                "Hyper Potion",
+                "Full Restore"
+            ],
+            "pokemon": [
+                {
+                    "species": "Sneasel",
+                    "species_id": 215,
+                    "level": 44,
+                    "hp": 115,
+                    "atk": 101,
+                    "def": 66,
+                    "spe": 119,
+                    "spa": 49,
+                    "spd": 84,
+                    "held_item": null,
+                    "moves": [
+                        "Slash",
+                        "Ice Punch",
+                        "Quick Attack",
+                        "Screech"
+                    ],
+                    "ability": "Inner Focus",
+                    "xp": 1243,
+                    "nature_id": 12,
+                    "nature": "Serious",
+                    "personality": 8197512,
+                    "forme": null
+                },
+                {
+                    "species": "Crobat",
+                    "species_id": 169,
+                    "level": 44,
+                    "hp": 142,
+                    "atk": 97,
+                    "def": 79,
+                    "spe": 145,
+                    "spa": 79,
+                    "spd": 88,
+                    "held_item": null,
+                    "moves": [
+                        "Poison Fang",
+                        "Air Cutter",
+                        "Bite",
+                        "Supersonic"
+                    ],
+                    "ability": "Inner Focus",
+                    "xp": 1923,
+                    "nature_id": 11,
+                    "nature": "Hasty",
+                    "personality": 9228936,
+                    "forme": null
+                },
+                {
+                    "species": "Honchkrow",
+                    "species_id": 430,
+                    "level": 46,
+                    "hp": 161,
+                    "atk": 133,
+                    "def": 72,
+                    "spe": 75,
+                    "spa": 115,
+                    "spd": 66,
+                    "held_item": "Sitrus Berry",
+                    "moves": [
+                        "Drill Peck",
+                        "Night Shade",
+                        "Astonish",
+                        "Feint Attack"
+                    ],
+                    "ability": "Insomnia",
+                    "xp": 1842,
+                    "nature_id": 7,
+                    "nature": "Relaxed",
+                    "personality": 4061832,
+                    "forme": null
+                }
+            ],
+            "trainer_location": "Galactic HQ",
+            "ai_flags": [
+                "Basic",
+                "Evaluate Attack",
+                "Expert"
+            ],
+            "money": -1
+},
+"cyrus3": {
+            "rom_id": 404,
+            "double_battle": false,
+            "trainer_class": "Galactic Boss Cyrus",
+            "trainer_name": "Galactic Boss Cyrus",
+            "trainer_gender": "male",
+            "battle_type": "Singles",
+            "items": [
+                "Full Restore",
+                "Full Restore"
+            ],
+            "pokemon": [
+                {
+                    "species": "Houndoom",
+                    "species_id": 229,
+                    "level": 45,
+                    "hp": 136,
+                    "atk": 99,
+                    "def": 63,
+                    "spe": 104,
+                    "spa": 117,
+                    "spd": 90,
+                    "held_item": null,
+                    "moves": [
+                        "Flamethrower",
+                        "Dark Pulse",
+                        "Will-o-wisp",
+                        "Thunder Fang"
+                    ],
+                    "ability": "Early Bird",
+                    "xp": 1966,
+                    "nature_id": 18,
+                    "nature": "Bashful",
+                    "personality": 5650568,
+                    "forme": null
+                },
+                {
+                    "species": "Honchkrow",
+                    "species_id": 430,
+                    "level": 47,
+                    "hp": 165,
+                    "atk": 149,
+                    "def": 67,
+                    "spe": 85,
+                    "spa": 105,
+                    "spd": 67,
+                    "held_item": null,
+                    "moves": [
+                        "Drill Peck",
+                        "Night Slash",
+                        "Heat Wave",
+                        "Psychic"
+                    ],
+                    "ability": "Insomnia",
+                    "xp": 1882,
+                    "nature_id": 3,
+                    "nature": "Adamant",
+                    "personality": 14229128,
+                    "forme": null
+                },
+                {
+                    "species": "Crobat",
+                    "species_id": 169,
+                    "level": 46,
+                    "hp": 148,
+                    "atk": 101,
+                    "def": 92,
+                    "spe": 151,
+                    "spa": 83,
+                    "spd": 82,
+                    "held_item": null,
+                    "moves": [
+                        "Cross Poison",
+                        "Air Slash",
+                        "Toxic",
+                        "Confuse Ray"
+                    ],
+                    "ability": "Inner Focus",
+                    "xp": 2010,
+                    "nature_id": 14,
+                    "nature": "Naive",
+                    "personality": 7702664,
+                    "forme": null
+                },
+                {
+                    "species": "Gyarados",
+                    "species_id": 130,
+                    "level": 46,
+                    "hp": 157,
+                    "atk": 133,
+                    "def": 91,
+                    "spe": 93,
+                    "spa": 66,
+                    "spd": 121,
+                    "held_item": null,
+                    "moves": [
+                        "Giga Impact",
+                        "Waterfall",
+                        "Ice Fang",
+                        "Earthquake"
+                    ],
+                    "ability": "Intimidate",
+                    "xp": 2109,
+                    "nature_id": 23,
+                    "nature": "Careful",
+                    "personality": 10765448,
+                    "forme": null
+                },
+                {
+                    "species": "Weavile",
+                    "species_id": 461,
+                    "level": 48,
+                    "hp": 139,
+                    "atk": 120,
+                    "def": 81,
+                    "spe": 139,
+                    "spa": 68,
+                    "spd": 101,
+                    "held_item": "Sitrus Berry",
+                    "moves": [
+                        "Night Slash",
+                        "Ice Punch",
+                        "Fake Out",
+                        "X-scissor"
+                    ],
+                    "ability": "Pressure",
+                    "xp": 2046,
+                    "nature_id": 15,
+                    "nature": "Modest",
+                    "personality": 9135240,
+                    "forme": null
+                }
+            ],
+            "trainer_location": "Distortion World",
+            "ai_flags": [
+                "Basic",
+                "Evaluate Attack",
+                "Expert"
+            ],
+            "money": -1
+        }
+
+}

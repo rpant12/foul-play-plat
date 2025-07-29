@@ -2,4 +2,7 @@ requests==2.32.4
 environs==11.0.0
 websockets==14.1
 python-dateutil==2.8.0
-poke-engine==0.0.43 --config-settings="build-args=--features poke-engine/terastallization --no-default-features"
+# poke-engine==0.0.43 --config-settings="build-args=--features poke-engine/terastallization --no-default-features"
+streamlit==1.47.0
+pandas==2.3.1
+numpy==2.3.2
